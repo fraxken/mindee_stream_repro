@@ -1,0 +1,29 @@
+{
+  "name": "mindee_stream_repro",
+  "version": "1.0.0",
+  "description": "Mindee stream with Koa.js",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "koa": "^2.13.1",
+    "make-promises-safe": "^5.1.0",
+    "koa-router": "^10.0.0",
+    "mindee": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fraxken/mindee_stream_repro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fraxken/mindee_stream_repro/issues"
+  },
+  "homepage": "https://github.com/fraxken/mindee_stream_repro#readme"
+}
